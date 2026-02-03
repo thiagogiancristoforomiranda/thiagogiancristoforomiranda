@@ -2,15 +2,11 @@
 
 **`Fullstack Developer`**
 
-Full-Stack Developer in Training | [cite_start]Computer Science Student (5th Semester) [cite: 5, 30]
-
-[cite_start]I am a Computer Science student currently in my 5th semester, specializing in building robust backend solutions with Python and Django REST Framework (DRF), combined with mobile application development using React Native[cite: 5, 9, 30, 31].
-
-[cite_start]I have a solid foundation in data architecture with PostgreSQL and MySQL, alongside proficiency in TypeScript and JavaScript[cite: 8, 10, 31]. [cite_start]I am also experienced in version control and project management using Git/GitHub and NPM[cite: 11].
-
-[cite_start]I am actively seeking an internship opportunity to apply and expand my technical skills while contributing to innovation within IT environments[cite: 6].
-
-[cite_start]I am fluent in English, backed by five years of living and studying at a Canadian school in Abu Dhabi, which enables me to communicate effectively and collaborate in diverse, multicultural settings[cite: 11].
+Full-Stack Developer in Training | Computer Science Student (5th Semester)
+I am a Computer Science student currently in my 5th semester, specializing in building robust backend solutions with Python and Django REST Framework (DRF), combined with mobile application development using React Native.
+I have a solid foundation in data architecture with PostgreSQL and MySQL, alongside proficiency in TypeScript and JavaScript. I am also experienced in version control and project management using Git/GitHub and NPM.
+I am actively seeking an internship opportunity to apply and expand my technical skills while contributing to innovation within IT environments.
+I am fluent in English, backed by five years of living and studying at a Canadian school in Abu Dhabi, which enables me to communicate effectively and collaborate in diverse, multicultural settings.
 
 ---
 

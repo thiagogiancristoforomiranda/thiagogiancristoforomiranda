@@ -1,6 +1,6 @@
 # 🧠 Thiago Giancristoforo Miranda
 
-**`Desenvolvedor Backend`**
+**`Desenvolvedor`**
 
 Me chamo Thiago Giancristoforo Miranda, Desenvolvedor Fullstack de 21 anos, apaixonado por tecnologia e dados. Cursando o quinto período de Ciência da Computação na Estácio de Sá, tenho como objetivo de carreira atuar nas áreas de desenvolvimento de software, ciência de dados e análise de dados. Minha fluência em inglês, adquirida ao morar por cinco anos no exterior, me permite colaborar em ambientes globais e me manter atualizado com as tecnologias mais recentes.
 
